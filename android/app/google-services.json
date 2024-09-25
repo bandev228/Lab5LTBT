@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581921009678",
+    "firebase_url": "https://usermanager-37a54-default-rtdb.firebaseio.com",
+    "project_id": "usermanager-37a54",
+    "storage_bucket": "usermanager-37a54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581921009678:android:8a2755ab0597534f88cc5f",
+        "android_client_info": {
+          "package_name": "com.usermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581921009678-3omkmu6s3kd4jo0qkfjophvg3cp0e5fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXn245M9hyK3bpApxJbh6tXtsPg6F3Foc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581921009678-3omkmu6s3kd4jo0qkfjophvg3cp0e5fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
